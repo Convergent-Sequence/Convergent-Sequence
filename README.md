@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+I'm a mathematics student double majoring in computer science. My work fields are data analysis and machine learning, particullarly, I'm interested in kernel methods and some applications of topology in computing.
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
